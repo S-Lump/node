@@ -1,0 +1,26 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "node js tutorial package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S-Lump/node.git"
+  },
+  "keywords": [
+    "nodejs",
+    "js"
+  ],
+  "author": "Grigory Korbut",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/S-Lump/node/issues"
+  },
+  "homepage": "https://github.com/S-Lump/node#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}

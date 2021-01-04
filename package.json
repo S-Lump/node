@@ -19,8 +19,5 @@
   "bugs": {
     "url": "https://github.com/S-Lump/node/issues"
   },
-  "homepage": "https://github.com/S-Lump/node#readme",
-  "devDependencies": {
-    "nodemon": "^2.0.6"
-  }
+  "homepage": "https://github.com/S-Lump/node#readme"
 }
